@@ -1,17 +1,6 @@
 // Import MySQL connection.
 var connection = require("../config/connection.js");
 
-//TODO: Need these methods - selectAll()
-// insertOne()
-// updateOne()
-
-
-
-
-
-
-
-
 
 // Helper function for SQL syntax.
 // Let's say we want to pass 3 values into the mySQL query.

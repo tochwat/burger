@@ -1,3 +1,5 @@
+//this file has all of our routes
+
 var express = require("express");
 
 var router = express.Router();
